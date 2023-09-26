@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ortega's Web Page</title>
+</title>
+<body style"background-color: tomato;">
+
+<img src="myProfile.jpg"
+style="width: 220px; height: 300px;
+align-content: center;">		
+
+
+<a href="index.html">back to Home</a>
